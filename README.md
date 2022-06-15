@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThembaniManyika
 - 👀 I’m interested in Learning 
-- 🌱 I’m currently learning Apache Kafka
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me naima4real@gmail.com
 
